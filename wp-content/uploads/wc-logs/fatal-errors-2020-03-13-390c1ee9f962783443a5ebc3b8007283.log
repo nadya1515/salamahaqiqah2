@@ -1,0 +1,72 @@
+2020-03-13T06:27:14+00:00 CRITICAL Uncaught Error: Using $this when not in object context in D:\programfiles\xampp\htdocs\salamahaqiqah\wp-content\plugins\themebeez-toolkit\includes\simple-mega-menu\class-simple-mega-menu-fields.php:111
+Stack trace:
+#0 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-includes\class-wp-hook.php(290): Simple_Mega_Menu_Fields::create_menu_fields(605, Object(WP_Post), 0, Object(stdClass))
+#1 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-includes\class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-content\plugins\themebeez-toolkit\includes\simple-mega-menu\class-simple-mega-menu-nav-walker-edit.php(94): do_action('wp_nav_menu_ite...', 605, Object(WP_Post), 0, Object(stdClass), 0)
+#4 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-content\plugins\themebeez-toolkit\includes\simple-mega-menu\class-simple-mega-menu-nav-walker-edit.php(56): Simple_Mega_Menu_Nav_Walker_Edi in D:\programfiles\xampp\htdocs\salamahaqiqah\wp-content\plugins\themebeez-toolkit\includes\simple-mega-menu\class-simple-mega-menu-fields.php on line 111
+
+2020-03-13T06:27:45+00:00 CRITICAL Uncaught Error: Using $this when not in object context in D:\programfiles\xampp\htdocs\salamahaqiqah\wp-content\plugins\themebeez-toolkit\includes\simple-mega-menu\class-simple-mega-menu-fields.php:111
+Stack trace:
+#0 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-includes\class-wp-hook.php(290): Simple_Mega_Menu_Fields::create_menu_fields(605, Object(WP_Post), 0, Object(stdClass))
+#1 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-includes\class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-content\plugins\themebeez-toolkit\includes\simple-mega-menu\class-simple-mega-menu-nav-walker-edit.php(94): do_action('wp_nav_menu_ite...', 605, Object(WP_Post), 0, Object(stdClass), 0)
+#4 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-content\plugins\themebeez-toolkit\includes\simple-mega-menu\class-simple-mega-menu-nav-walker-edit.php(56): Simple_Mega_Menu_Nav_Walker_Edi in D:\programfiles\xampp\htdocs\salamahaqiqah\wp-content\plugins\themebeez-toolkit\includes\simple-mega-menu\class-simple-mega-menu-fields.php on line 111
+
+2020-03-13T06:35:26+00:00 CRITICAL Uncaught Error: Using $this when not in object context in D:\programfiles\xampp\htdocs\salamahaqiqah\wp-content\plugins\themebeez-toolkit\includes\simple-mega-menu\class-simple-mega-menu-fields.php:111
+Stack trace:
+#0 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-includes\class-wp-hook.php(290): Simple_Mega_Menu_Fields::create_menu_fields(605, Object(WP_Post), 0, Object(stdClass))
+#1 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-includes\class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-content\plugins\themebeez-toolkit\includes\simple-mega-menu\class-simple-mega-menu-nav-walker-edit.php(94): do_action('wp_nav_menu_ite...', 605, Object(WP_Post), 0, Object(stdClass), 0)
+#4 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-content\plugins\themebeez-toolkit\includes\simple-mega-menu\class-simple-mega-menu-nav-walker-edit.php(56): Simple_Mega_Menu_Nav_Walker_Edi in D:\programfiles\xampp\htdocs\salamahaqiqah\wp-content\plugins\themebeez-toolkit\includes\simple-mega-menu\class-simple-mega-menu-fields.php on line 111
+
+2020-03-13T06:36:42+00:00 CRITICAL Uncaught Error: Using $this when not in object context in D:\programfiles\xampp\htdocs\salamahaqiqah\wp-content\plugins\themebeez-toolkit\includes\simple-mega-menu\class-simple-mega-menu-fields.php:111
+Stack trace:
+#0 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-includes\class-wp-hook.php(290): Simple_Mega_Menu_Fields::create_menu_fields(605, Object(WP_Post), 0, Object(stdClass))
+#1 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-includes\class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-content\plugins\themebeez-toolkit\includes\simple-mega-menu\class-simple-mega-menu-nav-walker-edit.php(94): do_action('wp_nav_menu_ite...', 605, Object(WP_Post), 0, Object(stdClass), 0)
+#4 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-content\plugins\themebeez-toolkit\includes\simple-mega-menu\class-simple-mega-menu-nav-walker-edit.php(56): Simple_Mega_Menu_Nav_Walker_Edi in D:\programfiles\xampp\htdocs\salamahaqiqah\wp-content\plugins\themebeez-toolkit\includes\simple-mega-menu\class-simple-mega-menu-fields.php on line 111
+
+2020-03-13T06:39:48+00:00 CRITICAL Uncaught Error: Using $this when not in object context in D:\programfiles\xampp\htdocs\salamahaqiqah\wp-content\plugins\themebeez-toolkit\includes\simple-mega-menu\class-simple-mega-menu-fields.php:111
+Stack trace:
+#0 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-includes\class-wp-hook.php(290): Simple_Mega_Menu_Fields::create_menu_fields(605, Object(WP_Post), 0, Object(stdClass))
+#1 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-includes\class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-content\plugins\themebeez-toolkit\includes\simple-mega-menu\class-simple-mega-menu-nav-walker-edit.php(94): do_action('wp_nav_menu_ite...', 605, Object(WP_Post), 0, Object(stdClass), 0)
+#4 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-content\plugins\themebeez-toolkit\includes\simple-mega-menu\class-simple-mega-menu-nav-walker-edit.php(56): Simple_Mega_Menu_Nav_Walker_Edi in D:\programfiles\xampp\htdocs\salamahaqiqah\wp-content\plugins\themebeez-toolkit\includes\simple-mega-menu\class-simple-mega-menu-fields.php on line 111
+
+2020-03-13T06:47:43+00:00 CRITICAL Uncaught Error: Using $this when not in object context in D:\programfiles\xampp\htdocs\salamahaqiqah\wp-content\plugins\themebeez-toolkit\includes\simple-mega-menu\class-simple-mega-menu-fields.php:111
+Stack trace:
+#0 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-includes\class-wp-hook.php(290): Simple_Mega_Menu_Fields::create_menu_fields(605, Object(WP_Post), 0, Object(stdClass))
+#1 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-includes\class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-content\plugins\themebeez-toolkit\includes\simple-mega-menu\class-simple-mega-menu-nav-walker-edit.php(94): do_action('wp_nav_menu_ite...', 605, Object(WP_Post), 0, Object(stdClass), 0)
+#4 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-content\plugins\themebeez-toolkit\includes\simple-mega-menu\class-simple-mega-menu-nav-walker-edit.php(56): Simple_Mega_Menu_Nav_Walker_Edi in D:\programfiles\xampp\htdocs\salamahaqiqah\wp-content\plugins\themebeez-toolkit\includes\simple-mega-menu\class-simple-mega-menu-fields.php on line 111
+
+2020-03-13T06:50:23+00:00 CRITICAL Uncaught Error: Using $this when not in object context in D:\programfiles\xampp\htdocs\salamahaqiqah\wp-content\plugins\themebeez-toolkit\includes\simple-mega-menu\class-simple-mega-menu-fields.php:111
+Stack trace:
+#0 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-includes\class-wp-hook.php(290): Simple_Mega_Menu_Fields::create_menu_fields(605, Object(WP_Post), 0, Object(stdClass))
+#1 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-includes\class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-content\plugins\themebeez-toolkit\includes\simple-mega-menu\class-simple-mega-menu-nav-walker-edit.php(94): do_action('wp_nav_menu_ite...', 605, Object(WP_Post), 0, Object(stdClass), 0)
+#4 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-content\plugins\themebeez-toolkit\includes\simple-mega-menu\class-simple-mega-menu-nav-walker-edit.php(56): Simple_Mega_Menu_Nav_Walker_Edi in D:\programfiles\xampp\htdocs\salamahaqiqah\wp-content\plugins\themebeez-toolkit\includes\simple-mega-menu\class-simple-mega-menu-fields.php on line 111
+
+2020-03-13T06:54:06+00:00 CRITICAL Uncaught Error: Using $this when not in object context in D:\programfiles\xampp\htdocs\salamahaqiqah\wp-content\plugins\themebeez-toolkit\includes\simple-mega-menu\class-simple-mega-menu-fields.php:111
+Stack trace:
+#0 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-includes\class-wp-hook.php(290): Simple_Mega_Menu_Fields::create_menu_fields(605, Object(WP_Post), 0, Object(stdClass))
+#1 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-includes\class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-content\plugins\themebeez-toolkit\includes\simple-mega-menu\class-simple-mega-menu-nav-walker-edit.php(94): do_action('wp_nav_menu_ite...', 605, Object(WP_Post), 0, Object(stdClass), 0)
+#4 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-content\plugins\themebeez-toolkit\includes\simple-mega-menu\class-simple-mega-menu-nav-walker-edit.php(56): Simple_Mega_Menu_Nav_Walker_Edi in D:\programfiles\xampp\htdocs\salamahaqiqah\wp-content\plugins\themebeez-toolkit\includes\simple-mega-menu\class-simple-mega-menu-fields.php on line 111
+
+2020-03-13T06:56:34+00:00 CRITICAL Uncaught Error: Using $this when not in object context in D:\programfiles\xampp\htdocs\salamahaqiqah\wp-content\plugins\themebeez-toolkit\includes\simple-mega-menu\class-simple-mega-menu-fields.php:111
+Stack trace:
+#0 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-includes\class-wp-hook.php(290): Simple_Mega_Menu_Fields::create_menu_fields(605, Object(WP_Post), 0, Object(stdClass))
+#1 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-includes\class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-content\plugins\themebeez-toolkit\includes\simple-mega-menu\class-simple-mega-menu-nav-walker-edit.php(94): do_action('wp_nav_menu_ite...', 605, Object(WP_Post), 0, Object(stdClass), 0)
+#4 D:\programfiles\xampp\htdocs\salamahaqiqah\wp-content\plugins\themebeez-toolkit\includes\simple-mega-menu\class-simple-mega-menu-nav-walker-edit.php(56): Simple_Mega_Menu_Nav_Walker_Edi in D:\programfiles\xampp\htdocs\salamahaqiqah\wp-content\plugins\themebeez-toolkit\includes\simple-mega-menu\class-simple-mega-menu-fields.php on line 111
+
